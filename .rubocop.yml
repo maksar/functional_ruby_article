@@ -1,0 +1,12 @@
+Style/Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/AbcSize:
+  Max: 25
+
+Metrics/MethodLength:
+  Exclude:
+    - imperative.rb
